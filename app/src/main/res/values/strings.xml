@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Binding using nav graph</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_email_address">Invalid Email Address</string>
+    <string name="please_enter_password">Please enter password</string>
+</resources>

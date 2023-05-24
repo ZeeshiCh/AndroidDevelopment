@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888833727322",
+    "project_id": "databindingusingnavgraph",
+    "storage_bucket": "databindingusingnavgraph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888833727322:android:46085bb7800b442bc6b163",
+        "android_client_info": {
+          "package_name": "com.example.databindingusingnavgraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888833727322-5njcal9v777diimpk3d4ptac3svo9lju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqxqo8VHhyPz4mpDQ5CwfvbtpYqsXfHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888833727322-5njcal9v777diimpk3d4ptac3svo9lju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
